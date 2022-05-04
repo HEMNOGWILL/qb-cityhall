@@ -31,7 +31,7 @@ Config.Cityhalls = {
             ["huntinglicense"] = {
                 label = "Hunting License",
                 cost = 50,
-                metadata = "weapon"
+                metadata = "hunting"
             },
         }
     },
